@@ -14,7 +14,7 @@
      ffmpeg -version
 
 ## Uso
-1. Ejecuta la aplicación con:
+1. Ejecuta la aplicación en CMD con:
    python main.py
 2. Pega la URL de YouTube, elige la carpeta de destino, la resolución y si quieres convertir a MP3.
 3. Haz clic en "Descargar".
