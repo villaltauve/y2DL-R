@@ -25,7 +25,7 @@ class Controlador:
 
         # Validar URL
         if not datos["url"]:
-            messagebox.showerror("Error", "Por favor, ingresa una URL válida.")
+            messagebox.showerror("Error URL", "Por favor, ingresa una URL válida.")
             return
 
         # Validar carpeta
